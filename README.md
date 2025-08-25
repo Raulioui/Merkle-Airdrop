@@ -1,6 +1,6 @@
 # Merkle Airdrop
 
-A minimal, production‑ready airdrop system using a Merkle tree allowlist + EIP‑712 signatures for meta‑tx claiming. Built with Solidity ^0.8.24, Foundry, OpenZeppelin, and Murky.
+Advanced Merkle Airdrop with Foundry and Digital Signatures - Advanced token airdrop system using Foundry, leveraging Merkle proofs for efficient eligibility verification.
 
 ---
 
